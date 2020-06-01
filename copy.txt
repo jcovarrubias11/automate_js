@@ -1,0 +1,18 @@
+document.getElementById('name').value = asdfasd 
+document.getElementById('button').click() 
+document.getElementById('id').value = asdfasd 
+document.getElementById('foo').value = 4850698456.0 
+document.getElementById('bar').value = fedex 
+document.getElementById('foo2').value = rtre 
+document.getElementById('name').value = ghjklghlj 
+document.getElementById('button').click() 
+document.getElementById('id').value = ghjklghlj 
+document.getElementById('foo').value = 38484564.0 
+document.getElementById('bar').value = upos 
+document.getElementById('foo2').value = bccvx 
+document.getElementById('name').value = zfhwryh 
+document.getElementById('button').click() 
+document.getElementById('id').value = zfhwryh 
+document.getElementById('foo').value = 1783673636.0 
+document.getElementById('bar').value = spca 
+document.getElementById('foo2').value = ghjh 
